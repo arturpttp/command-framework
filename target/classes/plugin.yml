@@ -1,0 +1,5 @@
+name: CommandFramework
+version: 0.5.0
+main: net.dev.art.commandframework.CommandFramework
+author: ArturDev
+depend: [Core]
